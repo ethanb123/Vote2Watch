@@ -2,7 +2,7 @@
 
 Vote2Watch is a student project for voting and selecting a movie for a group of people to watch. Users can submit movie titles for the group to vote or veto on. The web application ends with the results for the best movie to watch.
 
-Vote2Watch is currently live at [Vote2Watch.com](http://vote2watch.com)
+
 
 ## Install Development Enviroment
 
